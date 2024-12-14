@@ -1,11 +1,11 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm [Kailash Purohit]
 ### Senior Flutter Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailash-purohit-0b5003216/)
 
 
 ## 💫 About Me
-Senior Flutter Developer with 4+ years of specialized experience in delivering high-performance mobile solutions. I'm passionate about creating scalable applications and implementing cutting-edge technologies to solve complex business challenges.
+Building the next generation of mobile applications with Flutter. I specialize in seamlessly embedding Unity games within Flutter applications, creating hybrid experiences that combine the best of both frameworks. From implementing secure payment systems to optimizing app performance, I thrive on tackling complex technical challenges and pushing the boundaries of mobile development.
 
 ## 🚀 Expertise
 
@@ -50,4 +50,4 @@ Senior Flutter Developer with 4+ years of specialized experience in delivering h
 - 📧 Email: krajpurohit3457@gmail.com
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/kailashrjprht)
+⭐️ From [kailashrjprht](https://github.com/kailashrjprht)
