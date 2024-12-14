@@ -38,8 +38,6 @@ Building the next generation of mobile applications with Flutter. I specialize i
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kailashrjprht&show_icons=true&theme=radical)
 
 ## 🎯 Key Achievements
 - 🚀 Pioneered implementation of cutting-edge Flutter features
