@@ -1,8 +1,8 @@
 # 👋 Hello, I'm [Your Name]
 ### Senior Flutter Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailash-purohit-0b5003216/)
+
 
 ## 💫 About Me
 Senior Flutter Developer with 4+ years of specialized experience in delivering high-performance mobile solutions. I'm passionate about creating scalable applications and implementing cutting-edge technologies to solve complex business challenges.
@@ -38,7 +38,7 @@ Senior Flutter Developer with 4+ years of specialized experience in delivering h
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kailashrjprht&show_icons=true&theme=radical)
 
 ## 🎯 Key Achievements
 - 🚀 Pioneered implementation of cutting-edge Flutter features
@@ -47,9 +47,7 @@ Senior Flutter Developer with 4+ years of specialized experience in delivering h
 - 👥 Mentored junior developers and maintained high code quality standards
 
 ## 📫 How to reach me
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Website]
+- 📧 Email: krajpurohit3457@gmail.com
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [YourGitHubUsername](https://github.com/kailashrjprht)
