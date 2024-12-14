@@ -32,6 +32,7 @@ Building the next generation of mobile applications with Flutter. I specialize i
 ## 💻 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FF2D55?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF9900?style=for-the-badge&logo=firebase&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
